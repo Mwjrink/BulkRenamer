@@ -1,5 +1,5 @@
 import os
-path = '/Users/Max/Desktop/Nier Automata (OST)'
+path = '/Users/Max/Music/'
 files = os.listdir(path)
 i = 1
 
